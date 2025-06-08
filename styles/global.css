@@ -39,3 +39,12 @@ a:hover {
 h1, h2, h3 {
   color: inherit;
 }
+
+/* utility-first */
+.grid {
+  display: grid;
+}
+
+.grid-flow-col {
+  grid-auto-flow: column;
+}
