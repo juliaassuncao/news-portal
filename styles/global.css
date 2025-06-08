@@ -40,6 +40,12 @@ h1, h2, h3 {
   color: inherit;
 }
 
+.container {
+  max-width: 80rem;
+  padding-inline: 2rem;
+  margin-inline: auto;
+}
+
 /* utility-first */
 .grid {
   display: grid;
