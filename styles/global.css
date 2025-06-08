@@ -35,3 +35,7 @@ a {
 a:hover {
   color: var(--brand-color-light);
 }
+
+h1, h2, h3 {
+  color: inherit;
+}
