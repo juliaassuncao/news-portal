@@ -40,8 +40,16 @@ h1, h2, h3 {
   color: inherit;
 }
 
+img {
+  max-width: 100%;
+}
+
 .container {
   max-width: 80rem;
   padding-inline: 2rem;
   margin-inline: auto;
+}
+
+main {
+  margin-top: 2.5rem;
 }
